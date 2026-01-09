@@ -1,0 +1,17 @@
+
+# Next.js
+nextjs-docker/node_modules/
+nextjs-docker/.next/
+nextjs-docker/out/
+nextjs-docker/.env*.local
+
+# FastAPI
+fastapi-docker/.venv/
+fastapi-docker/__pycache__/
+fastapi-docker/*.pyc
+fastapi-docker/.uv/
+
+# General
+.DS_Store
+*.log
+.env
